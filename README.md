@@ -7,9 +7,9 @@
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
+  <a href="https://https://whatsapp.com/channel/0029ValSyeNIyPtXNpk4Am3W">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+    <h1 align="center">KACYTECH-BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
