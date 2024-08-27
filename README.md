@@ -8,7 +8,7 @@
 
   <p align="center">  
   <a href="https://https://whatsapp.com/channel/0029ValSyeNIyPtXNpk4Am3W">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/b721171c5eefb19152d18.jpg">
     <h1 align="center">KACYTECH-BUG-BOT</h1>
   </a>
 </p>
@@ -94,29 +94,29 @@ termux-setup-storage
 
 git clone https://github.com/kamztechsource/KACYTECH-BUG-BOT
 
- cd PREXZY-BUG-BOT
+ cd KACYTECH-BUG-BOT
  
  yarn install
  
  npm start
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please KACYTECH BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to KACYTECH BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
-   **Xeon** who made the base bot
+   **KAMZ** who made the base bot
 
-   **PRECIOUS AYOMIDE** For developing it; <br>
+   **TANAKA KAMUNYARO** For developing it; <br>
 
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KACYTECH BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
