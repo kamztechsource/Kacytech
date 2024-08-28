@@ -48,11 +48,11 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 
 
-cd KACYTECH-V1-BOT
+https://github.com/kamztechsource/Kacytech
 
-yarn install
+
    
-npm start
+
 
 
 If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
