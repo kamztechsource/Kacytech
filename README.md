@@ -9,7 +9,7 @@
   <p align="center">  
   <a href="https://https://whatsapp.com/channel/0029ValSyeNIyPtXNpk4Am3W">
     <img alt="wasi" height="300" src="https://telegra.ph/file/b721171c5eefb19152d18.jpg">
-    <h1 align="center">KACYTECH-V1-BOT</h1>
+    <h1 align="center">KACYTECH-v1.0-BOT</h1>
   </a>
 </p>
 <p align="center">
@@ -18,7 +18,7 @@
    
    
 
-KACYTECH V1 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+KACYTECH v1.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. KAMZ CYBER TECH
 ### 1. FORK THIS REPO
