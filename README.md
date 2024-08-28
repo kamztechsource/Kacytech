@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/kacytech"><img title="Author" src="https://img.shields.io/badge/kacytechbooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263779715613"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kacytech"><img title="Author" src="https://img.shields.io/badge/kamztechsource-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+263779715613"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
