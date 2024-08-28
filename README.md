@@ -3,13 +3,13 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;KACYTECH-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+TANAKA+KAMUNYARO;RELEASED+27.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;KACYTECH-V1-BOT;WHATSAPP+BUG+BOT;CREATED+BY+TANAKA+KAMUNYARO;RELEASED+27.08.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
   <a href="https://https://whatsapp.com/channel/0029ValSyeNIyPtXNpk4Am3W">
     <img alt="wasi" height="300" src="https://telegra.ph/file/b721171c5eefb19152d18.jpg">
-    <h1 align="center">KACYTECH-BUG-BOT</h1>
+    <h1 align="center">KACYTECH-V1-BOT</h1>
   </a>
 </p>
 <p align="center">
@@ -18,12 +18,12 @@
    
    
 
-KACYTECH BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+KACYTECH V1 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. KAMZ CYBER TECH
 ### 1. FORK THIS REPO
 
-<a href='https://github/kamztechsource/KACYTECH-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github/kamztechsource/KACYTECH-V1-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -48,7 +48,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 
 
-cd KACYTECH-BUG-BOT
+cd KACYTECH-V1-BOT
 
 yarn install
    
@@ -92,20 +92,20 @@ pkg install imagemagick
 
 termux-setup-storage
 
-git clone https://github.com/kamztechsource/KACYTECH-BUG-BOT
+git clone https://github.com/kamztechsource/KACYTECH-V1-BOT
 
- cd KACYTECH-BUG-BOT
+ cd KACYTECH-V1-BOT
  
  yarn install
  
  npm start
 
-`Please KACYTECH BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please KACYTECH V1 BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to KACYTECH BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to KACYTECH V1 BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -116,7 +116,7 @@ Contributions to KACYTECH BUG BOT are welcome! If you have ideas for new feature
 
 ## License
 
-The WhatsApp Bot KACYTECH BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KACYTECH V1 BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
