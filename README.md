@@ -92,7 +92,7 @@ pkg install imagemagick
 
 termux-setup-storage
 
-git clone https://github.com/kamztechsource/KACYTECH-V1-BOT
+
 
  cd KACYTECH-V1-BOT
  
